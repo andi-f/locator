@@ -1,10 +1,10 @@
-racal2101-plot reads the actual value every 2s and plot a diagram.
-All values are stored in a csv-file. These files can be open again.
+Locator calculate the distance and bearing between different locator formats.
+It supports QRA locator 5 character/WW(Maidenhead)-Locator 6 character/WW-Locator with microfield 8 character)
 
 Compile and  Install:
 The Program is written in C and uses GTK-2. 
-You need linux-gpib and a gpib-interface.
+Just type make
+References:
 
-The gpib-functions.h and gpib-functions.h are written by Frank Mori Hess.
-The address must be changed in the source code.
-
+https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+https://en.wikipedia.org/wiki/QRA_locator
