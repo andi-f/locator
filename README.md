@@ -7,4 +7,5 @@ Just type make
 References:
 
 https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+
 https://en.wikipedia.org/wiki/QRA_locator
